@@ -1,9 +1,9 @@
 {
   "name": "roundlees-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
-  "module":"es/index.js",
+  "module": "es/index.js",
   "scripts": {
     "build": "vite build"
   },
