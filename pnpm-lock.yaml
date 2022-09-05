@@ -20,9 +20,9 @@ importers:
 
   examples:
     specifiers:
-      round-ui: workspace:^1.0.0
+      roundlees-ui: workspace:^1.0.0
     dependencies:
-      round-ui: link:../packages/components
+      roundlees-ui: link:../packages/components
 
   packages/components:
     specifiers:

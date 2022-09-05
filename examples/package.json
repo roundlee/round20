@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "round-ui": "workspace:^1.0.0"
+    "roundlees-ui": "workspace:^1.0.0"
   }
 }

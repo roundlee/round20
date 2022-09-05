@@ -1,5 +1,5 @@
 {
-  "name": "round-ui",
+  "name": "roundlees-ui",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
     "lib"
   ],
   "keywords": [
-    "round-ui",
+    "roundlees-ui",
     "vue3组件库"
   ],
   "author": "泱听言",
