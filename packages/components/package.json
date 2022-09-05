@@ -17,8 +17,6 @@
   ],
   "author": "泱听言",
   "license": "MIT",
-  "dependencies": {
-    "@round-ui/utils": "workspace:^1.0.0"
-  },
+  "dependencies": {},
   "typings": "lib/index.d.ts"
 }
